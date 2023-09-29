@@ -1,0 +1,9 @@
+C:\Users\Jorge Garzón\source\repos\AppColegio\Logica\bin\Debug\Logica.dll
+C:\Users\Jorge Garzón\source\repos\AppColegio\Logica\bin\Debug\Logica.pdb
+C:\Users\Jorge Garzón\source\repos\AppColegio\Logica\bin\Debug\Datos.dll
+C:\Users\Jorge Garzón\source\repos\AppColegio\Logica\bin\Debug\Datos.pdb
+C:\Users\Jorge Garzón\source\repos\AppColegio\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\Jorge Garzón\source\repos\AppColegio\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Garzón\source\repos\AppColegio\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\Jorge Garzón\source\repos\AppColegio\Logica\obj\Debug\Logica.dll
+C:\Users\Jorge Garzón\source\repos\AppColegio\Logica\obj\Debug\Logica.pdb
